@@ -53,6 +53,8 @@ if x > 0 or y > 0:
 # not
 if not x == 5:
     print("This statement will not be executed.")
+```
+
 
 ## 四、学习心得与规划
 
